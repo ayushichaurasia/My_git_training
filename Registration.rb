@@ -1,3 +1,5 @@
 Added code for registration
 Added code for UI
-Added code for backend , created database migrations
+
+created database migrations
+ also Added code for backend i.e. added email password field.
